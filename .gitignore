@@ -1,0 +1,11 @@
+# IDEA #
+.idea/
+*.iml
+out/
+gen/
+
+# MAC
+.DS_Store
+
+# Maven #
+target/
