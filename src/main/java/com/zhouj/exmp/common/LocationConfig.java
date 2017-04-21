@@ -7,5 +7,5 @@ public class LocationConfig {
 
     public static final String DEFAULT_USER = "admin";
     public static final String DEFAULT_PASSWORD = "admin";
-    public static final String BROKERURL="tcp://10.192.25.141:61616";
+    public static final String BROKERURL="tcp://localhost:61616";
 }
